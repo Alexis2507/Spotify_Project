@@ -3,7 +3,7 @@ Song recommendation algorithm:
 13 Spotify Playlists & 900 songs extracted from the Spotify API.
 
 Data ectraction:
-3 Function used to extract:
+3 Functions used to extract:
   - Playlist tracks
   - Track features
   - Artist features
